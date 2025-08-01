@@ -3,7 +3,7 @@ import { LiFiWidget } from '@lifi/widget'
 export function App() {
   return (
     <LiFiWidget
-      integrator="vite-example"
+      integrator="Liminal-Stables"
       config={{
         theme: {
           container: {
